@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639012608610000000
+      ticks: 639012808290000000
     m_Hash: 519948925
   m_LockFileStatus:
     m_FilePath: /home/kevin/Documents/game-projects/Realm_Rush/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639012608610000000
+      ticks: 639012808290000000
     m_Hash: 3917451778
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
